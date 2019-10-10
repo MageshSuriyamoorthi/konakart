@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--Add test files here -->
+<suite name="konakart">
+	<suite-files>
+		<!-- <suite-file path="D:\new\eclipse-workspace\konakart\resource\suites\konakartHomeScript.xml"/> -->
+		<suite-file
+			path="D:\new\eclipse-workspace\konakart\resource\suites\konakartHeroScript.xml" />
+
+	</suite-files>
+</suite>

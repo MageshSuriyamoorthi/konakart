@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite (0)]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.magesh.konakart.testscript.konakartHeroVal">
+        <methods>
+          <include name="Hero_validation"/>
+          <include name="project_report"/>
+          <include name="close_browser"/>
+        </methods>
+      </class> <!-- com.magesh.konakart.testscript.konakartHeroVal -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite (0)] -->

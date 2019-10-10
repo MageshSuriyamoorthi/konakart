@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87577" started-at="2019-10-10T11:30:18Z" finished-at="2019-10-10T11:31:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87577" started-at="2019-10-10T11:30:18Z" finished-at="2019-10-10T11:31:45Z">
+      <class name="com.magesh.konakart.testscript.konakartHeroVal">
+        <test-method status="PASS" signature="get_browser()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="get_browser" is-config="true" duration-ms="7624" started-at="2019-10-10T11:30:10Z" finished-at="2019-10-10T11:30:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_browser -->
+        <test-method status="PASS" signature="get_url()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="get_url" is-config="true" duration-ms="12596" started-at="2019-10-10T11:30:18Z" finished-at="2019-10-10T11:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_url -->
+        <test-method status="PASS" signature="search_product()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="search_product" is-config="true" duration-ms="7528" started-at="2019-10-10T11:30:30Z" finished-at="2019-10-10T11:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_product -->
+        <test-method status="PASS" signature="positive_validation()[pri:1, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="positive_validation" duration-ms="11383" started-at="2019-10-10T11:30:38Z" finished-at="2019-10-10T11:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positive_validation -->
+        <test-method status="PASS" signature="project_report()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="project_report" is-config="true" duration-ms="1337" started-at="2019-10-10T11:30:49Z" finished-at="2019-10-10T11:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- project_report -->
+        <test-method status="PASS" signature="search_product()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="search_product" is-config="true" duration-ms="7309" started-at="2019-10-10T11:30:51Z" finished-at="2019-10-10T11:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_product -->
+        <test-method status="PASS" signature="negative_validation()[pri:2, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="negative_validation" duration-ms="7200" started-at="2019-10-10T11:30:58Z" finished-at="2019-10-10T11:31:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negative_validation -->
+        <test-method status="PASS" signature="project_report()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="project_report" is-config="true" duration-ms="342" started-at="2019-10-10T11:31:05Z" finished-at="2019-10-10T11:31:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- project_report -->
+        <test-method status="PASS" signature="search_product()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="search_product" is-config="true" duration-ms="7473" started-at="2019-10-10T11:31:06Z" finished-at="2019-10-10T11:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_product -->
+        <test-method status="PASS" signature="neutral_validation()[pri:3, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="neutral_validation" duration-ms="6784" started-at="2019-10-10T11:31:13Z" finished-at="2019-10-10T11:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- neutral_validation -->
+        <test-method status="PASS" signature="project_report()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="project_report" is-config="true" duration-ms="337" started-at="2019-10-10T11:31:20Z" finished-at="2019-10-10T11:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- project_report -->
+        <test-method status="PASS" signature="search_product()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="search_product" is-config="true" duration-ms="6277" started-at="2019-10-10T11:31:20Z" finished-at="2019-10-10T11:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_product -->
+        <test-method status="PASS" signature="Hero_validation()[pri:4, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="Hero_validation" duration-ms="18372" started-at="2019-10-10T11:31:26Z" finished-at="2019-10-10T11:31:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hero_validation -->
+        <test-method status="PASS" signature="project_report()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="project_report" is-config="true" duration-ms="372" started-at="2019-10-10T11:31:45Z" finished-at="2019-10-10T11:31:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- project_report -->
+        <test-method status="PASS" signature="close_browser()[pri:0, instance:com.magesh.konakart.testscript.konakartHeroVal@2a266d09]" name="close_browser" is-config="true" duration-ms="217" started-at="2019-10-10T11:31:45Z" finished-at="2019-10-10T11:31:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- com.magesh.konakart.testscript.konakartHeroVal -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="konakart" duration-ms="0" started-at="2019-10-10T11:31:46Z" finished-at="2019-10-10T11:31:46Z">
+    <groups>
+    </groups>
+  </suite> <!-- konakart -->
+</testng-results>
